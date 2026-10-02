@@ -1,0 +1,27 @@
+.h1{
+    color: #141414;
+}
+.bo{
+    background-color: #E6E1C4;
+    color: #960214;
+    font-size: 23px;
+}
+.icon{
+    border-radius: 30px;
+}
+.button{
+    color: #960214;
+    background-color: #141414;
+    border-color: #555555;
+    font-size: 23px;
+    width: 200px;
+    height: 80px;
+    font-family: Verdana;
+}
+button:hover{
+    color: #141414;
+    background-color: #960214;
+}
+.centered{
+    text-align: center;
+}
